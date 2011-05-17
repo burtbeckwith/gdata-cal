@@ -1,0 +1,9 @@
+*.log
+/target
+/*.zip
+/plugin.xml
+/.setting
+/web-app/WEB-INF/classes
+/test/test.auth.properties
+
+
